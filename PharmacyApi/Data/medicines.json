@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Used for fever and pain",
+    "ExpiryDate": "2026-06-15T00:00:00",
+    "Quantity": 50,
+    "Price": 25.50,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "Id": 2,
+    "FullName": "Azithromycin",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-05-20T00:00:00",
+    "Quantity": 15,
+    "Price": 120.00,
+    "Brand": "MedLife"
+  },
+  {
+    "Id": 3,
+    "FullName": "Vitamin C",
+    "Notes": "Supplement",
+    "ExpiryDate": "2026-05-25T00:00:00",
+    "Quantity": 100,
+    "Price": 80.75,
+    "Brand": "HealthPlus"
+  },
+  {
+    "Id": 4,
+    "FullName": "Vivek",
+    "Notes": "Vivek example",
+    "ExpiryDate": "2028-05-09T00:00:00",
+    "Quantity": 30,
+    "Price": 300.0,
+    "Brand": "Natco"
+  },
+  {
+    "Id": 5,
+    "FullName": "Kriti",
+    "Notes": "d",
+    "ExpiryDate": "2026-05-30T00:00:00",
+    "Quantity": 1,
+    "Price": 200.0,
+    "Brand": "para"
+  },
+  {
+    "Id": 6,
+    "FullName": "Deepak",
+    "Notes": "Deepak ",
+    "ExpiryDate": "2026-05-22T00:00:00",
+    "Quantity": 45,
+    "Price": 10.0,
+    "Brand": "Natco"
+  },
+  {
+    "Id": 7,
+    "FullName": "Azito",
+    "Notes": "dfhjr",
+    "ExpiryDate": "2026-07-15T00:00:00",
+    "Quantity": 5,
+    "Price": 100.0,
+    "Brand": "Azotho"
+  },
+  {
+    "Id": 8,
+    "FullName": "cold sryup ",
+    "Notes": "des",
+    "ExpiryDate": "2026-05-14T00:00:00",
+    "Quantity": 40,
+    "Price": 400.0,
+    "Brand": "Nato"
+  },
+  {
+    "Id": 9,
+    "FullName": "Vivek yadav",
+    "Notes": "efh",
+    "ExpiryDate": "2026-06-11T00:00:00",
+    "Quantity": 20,
+    "Price": 200.0,
+    "Brand": "yadav"
+  },
+  {
+    "Id": 10,
+    "FullName": "Cough",
+    "Notes": "fev",
+    "ExpiryDate": "2026-05-15T00:00:00",
+    "Quantity": 100,
+    "Price": 45.0,
+    "Brand": "453"
+  },
+  {
+    "Id": 11,
+    "FullName": "MeftAL",
+    "Notes": "Stomoch ache",
+    "ExpiryDate": "2028-07-16T00:00:00",
+    "Quantity": 8,
+    "Price": 120.0,
+    "Brand": "NA"
+  }
+]
